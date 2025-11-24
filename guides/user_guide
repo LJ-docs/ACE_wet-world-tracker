@@ -1,0 +1,54 @@
+Hey! This is a guide addressed to all students who will be using this automatic tracking system. Read carefully and good luck! 
+
+
+—---------------------------------------------------- Before leaving : --------------------------------------------------------------
+
+To track a person and display their velocity, this website uses color. This means that the person moving will have to hold a color paper, which the website then recognizes. 
+
+To start, find an approximately A4-sized sheet of paper of a specific color. Try not to use too small of a spot. Slightly larger than A4 should work fine. 
+
+Then, open the website and navigate to the picker tool. 
+
+Place your paper into your phone’s camera view and press the button on-screen. Make sure the entire camera view is filled with the paper. Make sure that the paper is well lit and looks similar to how it would look on camera on the day. 
+
+At this point, the tracker should be ready to use. Navigate back to the main page and hold the paper up. It should now be tracked by the website and a velocity will be displayed. 
+
+
+
+—------------------------------------------------------ At Wet World : —----------------------------------------------------------
+
+Once at Wet World or the chosen water park, choose a filming location and lay out a string or measure a specific distance. Move the person and camera until the string or markings are aligned with the two black lines on either side. 
+
+Key in the length of your string / the distance you measured. 
+
+In other words, the distance keyed into the website must be the same as the real life distance between the two lines in your phone camera. 
+
+If the distance is inaccurate, all readings will be wrong. Ensure units are in m and perform carefully.  
+
+
+
+—---------------------------------------------------- After Wet World : —---------------------------------------------------------
+
+When grabbing values from the video to plot your graph, take note that the velocity values are not updated at regular intervals. The best idea is to record the velocity at 1s or 0.5s intervals, and not try to record them every single time they update. 
+
+Good luck with your coursework! If anything does not go as planned, there is a troubleshooting guide in the linked Google Drive, the tracker and the github. 
+
+
+
+
+
+
+Here are a few things to watch out for : 
+The website does not work on Safari. Use Google Chrome or other browsers.
+The website tracks the biggest object of the chosen color. As a result, some shades of blue have to be avoided as the website will choose to track the pools instead of the smaller paper. Refer to the color blacklist for more “illegal” colors. 
+Ensure that the paper is shielded from water, but use the color picker only after it has been placed in its covering.
+The color paper should be visible at all times during the student’s motion. For our year, it was found that the best way was for the student to hold up the paper, instead of it being stuck to his/her shoulder. 
+The website drains battery quickly. Bring power banks.
+Bring multiple colors and sheets of color paper. You may not be able to get a filming location where you can use the color you want. 
+
+
+
+Last updated 25/11/2025 by LJ.
+
+
+
