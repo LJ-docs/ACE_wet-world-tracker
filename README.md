@@ -12,7 +12,7 @@ A little about me; I am a student, graduated year 2025, that built this app for 
 
 This rep contains the user documents, source code and all files related to the project. I intend for this to be open source, and if any programmers wish to make updates, improvements or changes, they are more than welcome to. 
 
-The folder "code" contains the source code and explanation documents; "guide" contains preserved user guides in case they are lost and  "color" contains the blacklist and code used. Take a look and enjoy this peek into a project that I'm very proud of. 
+The folder "code" contains the source code and explanation documents; "guide" contains preserved user guides in case they are lost and  "color" contains the blacklist and code used. Take a look around and see what I've done. 
 
 
 # What you can do as a programmer 
@@ -29,4 +29,4 @@ The code I've written for the tracker is questionable at best. If any classmates
 If you have the confidence and have found something you want to fix, be my guest. However, be careful not to overwrite or be hasty, create your own google script first, and if you do decide to commit, create a new file named with the date. Refer to the text file in the "code" folder for more information on this.
 
 - Update the GitHub.
-This is my first time using git. If you have official naming conventions or better organization systems, given that you proceed with caution, feel free to improve the current system. My only request is that you avoid changing or deleting all current text and add on instead. Preserve this little bit of me to carry on in the documentation ;)  
+This is my first time using git. If you have official naming conventions or better organization systems, given that you proceed with caution, feel free to improve the current system. My only request is that you avoid changing or deleting all current text and add on instead. Leave this mark that I've made to carry on in the documentation, good memories ;)  
