@@ -14,6 +14,11 @@ This rep contains the user documents, source code and all files related to the p
 
 The folder "code" contains the source code and explanation documents; "guide" contains preserved user guides in case they are lost and  "color" contains the blacklist and code used. Take a look around and see what I've done. 
 
+TODO : 
+- Add source code for google script
+- Update launching instructions for google script / sharing permissions
+- Move to official hosting
+- Fix android issue / make sure functions in Safari etc 
 
 # What you can do as a programmer 
 
