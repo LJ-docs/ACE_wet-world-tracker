@@ -16,6 +16,7 @@ The folder "code" contains the source code and explanation documents; "guide" co
 
 TODO : 
 - Add source code for google script
+- Update backup of user guide
 - Update launching instructions for google script / sharing permissions
 - Move to official hosting
 - Fix android issue / make sure functions in Safari etc 
@@ -34,4 +35,7 @@ The code I've written for the tracker is questionable at best. If any classmates
 If you have the confidence and have found something you want to fix, be my guest. However, be careful not to overwrite or be hasty, create your own google script first, and if you do decide to commit, create a new file named with the date. Refer to the text file in the "code" folder for more information on this.
 
 - Update the GitHub.
-This is my first time using git. If you have official naming conventions or better organization systems, given that you proceed with caution, feel free to improve the current system. My only request is that you avoid changing or deleting all current text and add on instead. Leave this mark that I've made to carry on in the documentation, good memories ;)  
+This is my first time using git. If you have official naming conventions or better organization systems, given that you proceed with caution, feel free to improve the current system. My only request is that you avoid changing or deleting any important text and add on instead. Leave this mark that I've made to carry on in the documentation, good memories ;)
+
+- Improve / change entire system
+As of 15/6/2026, I am hoping to change the tracking system and maybe make it work on a printed-out sheet of paper instead, to avoid all the issues with color conflicts. This is quite a large task and I'm not sure if I will be able to finish it, so if anyone in the future has ideas or wants to do it, be my guest. This will most likely go inline with moving everything to a better hosting service. 
