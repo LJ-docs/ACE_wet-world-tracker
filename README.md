@@ -8,7 +8,7 @@ Well, hey!
 
 This is the technical documentation of the tracker I built for the Additional Mathematics velocity graphing coursework. 
 
-A little about me; I am a student, graduated year 2025, that built this app for our group only. It worked well and provided accurate results, so I suggested to make a polished version for permanent use. And here we are. 
+A little about me; I am a student, graduated year 2025, that built this app for our group. It worked well and provided decent results, so I suggested to make a polished version for permanent use. And here we are. 
 
 This rep contains the user documents, source code and all files related to the project. I intend for this to be open source, and if any programmers wish to make updates, improvements or changes, they are more than welcome to. 
 
